@@ -1,0 +1,42 @@
+@font-face {
+	font-family: "arial";
+	src: url("/media/fonts/arial.ttf");
+}
+body{
+	font-family: "arial";
+	margin: 0;
+	padding: 0;
+}
+
+.logo{
+	width: 313px;
+	height: 155px;
+	margin-left: 66px;
+	margin-top: 44px;
+}
+
+.nombre{
+	font-size: 25px;
+	margin-top: -110px;
+	margin-left: 363px;
+}
+
+.slogan{
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 363px;
+}
+
+.inicio{
+	font-size: 15px;
+	margin-left: 91px;
+	text-decoration: none;
+	color: #000;
+}
+
+.escuela{
+	font-size: 15px;
+	margin-left: 25px;
+	text-decoration: none;
+	color: #000;
+}
