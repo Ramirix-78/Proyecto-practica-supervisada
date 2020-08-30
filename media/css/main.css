@@ -64,7 +64,7 @@ body{
 	font-size: 15px;
 	margin-left: 1308px;
 	color: #000;
-	width: 25%;
+	width: 28%;
 }
 
 .btn-info-head{
@@ -72,6 +72,7 @@ body{
 	height: 55px;
 	margin-top: -56px;
 	margin-left: 1415px;
+	position: absolute;
 	border: 1px solid;
 	color: #000;
 	background: #fff;
